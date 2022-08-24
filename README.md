@@ -9,7 +9,7 @@
 * Take us back one level (in directory) -- **cd ..**
 * Clear your entire screen -- **clear**
 * Clear current command - **cmd + U**
-* Get any position of the line -- **cmd or alt + click cursor** (*don't touch the mouse, pls, use your keyboard 🙃)*
+* Get any position of the line -- **cmd or alt + click cursor**
 * Get beginning of the line -- **cmd + A**
 * Get end of the line -- **cmd + E**
 * Previous command --  **↑↓** 
